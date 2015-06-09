@@ -1,0 +1,28 @@
+# depslib dependency file v1.0
+1425577937 source:c:\users\user\desktop\tarea pilas\proyecto franklin\main.cpp
+	<iostream>
+	<stdio.h>
+	<time.h>
+	<conio.h>
+	<windows.h>
+	<queue>
+	<stack>
+	<list>
+
+1425605096 source:c:\users\datacenter\downloads\proyecto franklin\main.cpp
+	<iostream>
+	<stdio.h>
+	<conio.h>
+	<windows.h>
+	<queue>
+	<stack>
+	<list>
+
+1425701250 source:g:\proyecto_final_franklin\main.cpp
+	<iostream>
+	<conio.h>
+	<windows.h>
+	<queue>
+	<stack>
+	<list>
+
